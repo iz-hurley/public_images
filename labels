@@ -1,1 +1,5 @@
-{"p.jpeg":"dog", "r.jpeg":"cat"}
+{"p":"dog", 
+"r":"cat",
+"p1" : "square", 
+"p2" : "triangle"
+}
